@@ -1,7 +1,5 @@
-mark = (("input grade 100 - 0")
-        if < 101 but is > 69 = A
-        if < 68 but is > 59 = B
-        if < 58 but is > 49 = C
-        if < 48 but is > 39 = D
-        if < 38 but is > 29 = E
-        if < 28 but is > 19 = F
+mark = 70 grade = None if mark >=70: grade = "A" elif mark >=60: grade = "B"
+mark = 60 grade = None if mark >=60: grade = "B" elif mark >=50: grade = "C"
+mark = 50 grade = None if mark >=50: grade = "C" elif mark >=40: grade = "D"
+mark = 40 grade = None if mark >=40: grade = "D" elif mark >=30: grade = "E"
+mark = 30 grade = None if mark >=30: grade = "E" elif mark >=60: grade = "F"
