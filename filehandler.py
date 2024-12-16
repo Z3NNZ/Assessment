@@ -1,7 +1,11 @@
-Zenn Z, Introduction to Programming, 67, 33 
-Sara R, Introduction to Web Scripting, 44, 56
-Kasim R, Introduction to Web Development, 49, 51
+def grade (mark)
+"predict grade for name" return sum 
 
-Zenn Z, 66, Merit
-Sara R, 90, Distinction 
-Kasim R, 88, Distinction 
+def read file, input(grade) 
+
+print(f'written results) 
+exclude(print'error file not found' 
+
+Zenn Z: 67.33 
+Sara R: 44.56
+Kasim R: 49.51
